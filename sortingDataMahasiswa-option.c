@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define MAX_MAHASISWA 10
+#define MAX_MAHASISWA 5
 
 // Struktur untuk menyimpan data mahasiswa
 typedef struct {
